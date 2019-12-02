@@ -26,14 +26,14 @@ Some of the areas I help organizations with in Agile are as below. <br>
 ### Agile Coaching
 Coaching and Mentoring Teams on Agile Practices and build a cultural mindset of adaptation, transparency and close collaboration
 
-##### Agile Coaching Strategy
+##### Agile Coaching Method
 
 - Assess through interviews and participation in day 2 day working of teams
 - Derive a roadmap for improvement through constant coaching
 - Mentoring Scrum Masters on **Servant Leadership**
 - Training Teams on Agile Practices and **fostering Collaboration** through various **techniques of Agile and Kanban**
 - Assist Teams and Product Owners on improving their Agile know-how/Skills and improve overall productivity of teams through **meaningful metrics**
-- Instill an **Agile culture of Transparency and Adaptation** by encouraging a sharing culture through communities of practices
+- Imbibe an **Agile culture of Transparency and Adaptation** by encouraging a sharing culture through communities of practices
 
 ***
 

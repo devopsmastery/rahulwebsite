@@ -3,7 +3,7 @@ layout: post
 title:  "My Consulting Assignments"
 subtitle: "Agile Coach"
 date:   2019-10-23 12:47:44 +0530
-categories: jekyll update
+categories: blog update
 ---
 ### Agile Coach/Consultant - CitiusTech (Mumbai) <br><br>
 ##### About Client
